@@ -1,0 +1,21 @@
+.but{
+
+   
+    background-color: rgb(181, 101, 29);
+    border: none;
+    color: white;
+    font-size: medium;
+    padding: 8px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0px 0px;
+    cursor: pointer;
+    border-radius: 16px; 
+  
+}
+.fontstyle{ 
+    font-family: "Nunito Sans", sans-serif;
+    font-size: x-large;
+
+}
